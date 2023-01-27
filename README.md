@@ -6,4 +6,4 @@
 - I have 1 year old daughter
 
 
-![Selfie](https://github.com/EvgeniyaYar/Homework-5/blob/main/img/IMG_7103.jpg)
+![Selfie](img/IMG_7103.jpg)
